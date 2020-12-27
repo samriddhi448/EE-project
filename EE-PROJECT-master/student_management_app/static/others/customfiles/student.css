@@ -1,0 +1,18 @@
+.brand-img{
+    height: 90px;
+    width: auto;
+}
+
+
+.auto{
+    margin-top: auto;
+    margin-bottom: auto;
+    padding: 10px;
+}
+
+.brand-link{
+    background-color: #616161;
+}
+.check{
+    background-color: violet;
+}

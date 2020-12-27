@@ -1,0 +1,35 @@
+html,body{
+    height: 100%;
+    margin: 0px;
+}
+
+body{
+    background-color:white;
+}
+
+.auto{
+    margin-top:auto;
+    margin-bottom:auto;
+    padding:10px;
+ }
+
+#loginimg{
+    height: 40%;
+}
+ .form-card{
+     border-radius: 20px;
+     padding: 10px;
+     margin-top:20px;
+ }
+
+ .full{
+     height: 100vh;
+ }
+
+ .check{
+    background-color:violet;
+ }
+
+ .login-page{
+     background-color: white;
+ }
